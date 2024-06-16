@@ -4,11 +4,12 @@ using UnityEngine;
 using UnityEngine.UI;
 using Photon.Pun;
 using Photon.Realtime;
+using TMPro;
 
 public class ListItem : MonoBehaviour
 {
-    [SerializeField] Text _textName;
-    [SerializeField] Text _textPlayerCount;
+    [SerializeField] TextMeshProUGUI _textName;
+    [SerializeField] TextMeshProUGUI _textPlayerCount;
     public void SetInfo(RoomInfo info)
     {
         _textName.text = info.Name;
