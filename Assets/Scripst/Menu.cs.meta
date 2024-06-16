@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 7a79d89fcfe304948aad09010fa0af57
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _music: {instanceID: 0}
+  - _OffSound: {fileID: -1740599570, guid: 58da9c86649aa1e40a4255ca957a29bf, type: 3}
+  - _OnSound: {fileID: -1784451175, guid: 58da9c86649aa1e40a4255ca957a29bf, type: 3}
+  - _windowSettings: {instanceID: 0}
+  - _windowLelelHard: {instanceID: 0}
+  - _musicToggle: {instanceID: 0}
+  - _soundToggle: {instanceID: 0}
+  - _darkThemeToggle: {instanceID: 0}
+  - _sound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
